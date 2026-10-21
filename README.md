@@ -23,6 +23,7 @@ Contacto: rodrigolagoschavez@gmail.com
 │   ├── 01_simulation.R     # Simulación
 │   ├── 02_analysis.R       # Análisis de datos
 │   └── 03_figures.R        # Figuras
+|   ── funciones/           # funciones útiles 
 └── figures/
 ```
 
