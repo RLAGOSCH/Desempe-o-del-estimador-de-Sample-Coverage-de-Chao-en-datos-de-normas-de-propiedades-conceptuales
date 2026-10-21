@@ -50,4 +50,30 @@ James S. McDonnell Foundation (https://doi.org/10.37717/2022-3930) y ANID Fondec
 
 ## Licencia
 
-Pendiente de definir.
+Copyright (c) 2026 Rodrigo Lagos, Felipe A. Medina Marín y Sergio E. Chaigneau
+
+Este trabajo está licenciado bajo la Licencia Creative Commons
+Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Usted es libre de:
+
+  - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+  - Adaptar: remezclar, transformar y construir a partir del material.
+
+Bajo los siguientes términos:
+
+  - Atribución: debe dar crédito de manera adecuada, brindar un enlace a la
+    licencia e indicar si se han realizado cambios.
+  - NoComercial: no puede utilizar el material con propósitos comerciales.
+    Se permite su uso con fines académicos, de investigación y de educación.
+  - Sin restricciones adicionales: no puede aplicar términos legales ni
+    medidas tecnológicas que restrinjan legalmente a otros a hacer cualquier
+    uso permitido por la licencia.
+
+El material se ofrece "tal cual", sin garantías de ningún tipo.
+
+Texto legal completo:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.es
+
+Resumen de la licencia:
+https://creativecommons.org/licenses/by-nc/4.0/deed.es
