@@ -62,7 +62,7 @@ for (i in seq_len(nrow(dfCorrelaciones))) {
 
 fig_p1 <- ggplot(dfSim, aes(x = nT, y = d)) +
   geom_point(colour = "grey40", alpha = 0.2, size = 0.6) +
-  geom_line(data = media_d_T, aes(y = E_d), colour = "black", linewidth = 0.8) +
+  geom_line(data = dfMedia, aes(y = E_d), colour = "black", linewidth = 0.8) +
   geom_hline(yintercept = 0, linetype = "dashed", colour = "red") +
   facet_wrap(vars(Concepto), nrow = 1) +
   labs(x = "T", y = "Discrepancia d (estimada - referencia)") +
